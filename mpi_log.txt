@@ -1,0 +1,3 @@
+Rank: 1, Size: 2
+Hello, World! from Rank: 1
+Goodbye, World! from Rank: 1
